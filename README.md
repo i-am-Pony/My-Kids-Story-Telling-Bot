@@ -2,7 +2,8 @@
 A bot that tells your kid a story. Generate a random story, get a matching image, and an audio file that will read the generated story aloud for you.
 It is customizale, easy to configure, and open to use.
 
-![story_bot_small](https://github.com/i-am-Pony/My-Kids-Story-Telling-Bot/assets/109096522/0dfde9af-b5cb-414f-a4fc-60079bd51192)
+![story_bot_small](https://github.com/i-am-Pony/My-Kids-Story-Telling-Bot/assets/109096522/fb9275e8-0f77-46bd-9146-13f314c3d18f)
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
