@@ -1,5 +1,5 @@
 # My-Kids-Story-Telling-Bot
-A bot that tells your kid a story
+A bot that tells your kid a story. Generate a random story, get a matching image, and an audio file that will read the generated story aloud for you.
 It is customizale, easy to configure, and open to use.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
